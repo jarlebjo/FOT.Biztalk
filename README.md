@@ -1,2 +1,2 @@
-# FOT.Biztalk
-All Deployment Framework for BizTalk
+# FOT.MyTest
+All MyTest
